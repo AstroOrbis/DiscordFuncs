@@ -1,2 +1,2 @@
-recursive-include DiscordDefs
-include DiscordDefs/
+recursive-include DiscordFuncs
+include DiscordFuncs/
