@@ -5,7 +5,7 @@ with open("README.md", "r") as fhandle:
 
 setuptools.setup(
     name="DiscordDefs", # Put your username here!
-    version="0.1.12", # The version of your package!
+    version="0.0.1", # The version of your package!
     author="Astro Orbis", # Your name here!
     author_email="astroorbis@gmail.com", # Your e-mail here!
     description="Some small discord.py functions for bot developers!", # A short description here!

@@ -1,1 +1,1 @@
-import os; os.system('python3 -m build && twine upload dist/* && rm -rf DiscordDefs.egg-info dist')
+import os; os.system('python setup.py sdist bdist_wheel && twine upload dist/*')
