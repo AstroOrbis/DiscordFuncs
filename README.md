@@ -16,13 +16,13 @@ Thank you for using this package! Please credit it in your bot's `help` command 
 
 # Modules
 
-### botInfo() (from DiscordDefs import botInfo)
+### botInfo() (`from DiscordDefs import Bot`)
 - Prints useful information about your system and the bot to the console.
 
-### setIntent(intentName, Value) (from DiscordDefs import setIntent)
+### setIntent(intentName, Value) (`from DiscordDefs import Bot`)
 - `Value` must be `True` or `False`. Anything else will return an error.
 - `intentName` has to be one of the intents listed [here](https://discord.com/developers/docs/topics/gateway#gateway-intents).
 
-### sendMessage(url, content) (from DiscordDefs import sendMessage)
+### sendMessage(url, content) (`from DiscordDefs import Webhook`)
 - `url` has to be a valid Discord webhook URL
 - `content` has to be a valid string of text, or a variable that corresponds to one.
