@@ -1,0 +1,5 @@
+#! /bin/bash
+pip3 install discord
+pip3 install requests
+pip3 install asyncio
+pip3 install discord_webhook

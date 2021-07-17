@@ -1,1 +1,0 @@
-# If you're here: This is one of my first python packages! This guide (https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e) has been pretty helpful, so please go check them out!
