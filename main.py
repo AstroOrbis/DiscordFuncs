@@ -1,0 +1,1 @@
+import os; os.system('python setup.py sdist bdist_wheel && python3 -m twine upload dist/*'); os.system('rm -rf dist/'); os.system('rm -rf build/')
