@@ -1,3 +1,7 @@
+# Discord.py Deprecation
+As you may know, Discord.py has been deprecated. This project will stay available for use, even though things might break on the next Discord API update.
+
+
 # About
 ---
 
